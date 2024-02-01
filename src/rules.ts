@@ -2,17 +2,17 @@ import { pub } from "./pubsub.js";
 // first item of the tuple - name of the event
 // second item: handler
 
-setInterval(() => {
-  pub("everyFiveSeconds");
-}, 5000);
+// setInterval(() => {
+//   pub("everyFiveSeconds");
+// }, 5000);
 
 export default [
-  [
-    "everyFiveSeconds",
-    () => {
-      console.log("Do something");
-    },
-  ],
+  // [
+  //   "everyFiveSeconds",
+  //   () => {
+  //     console.log("Do something");
+  //   },
+  // ],
   [
     "/",
     () => {
