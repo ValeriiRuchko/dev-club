@@ -1,0 +1,1 @@
+{"version":3,"file":"http404BadRequest.js","sourceRoot":"","sources":["../../src/http-errors/http404BadRequest.ts"],"names":[],"mappings":"AAAA,MAAM,aAAc,SAAQ,KAAK;IAC/B,MAAM,CAAS;IAEf,YAAY,OAAgB;QAC1B,KAAK,CAAC,OAAO,IAAI,aAAa,CAAC,CAAC;QAChC,IAAI,CAAC,MAAM,GAAG,GAAG,CAAC;IACpB,CAAC;CACF;AAED,eAAe,aAAa,CAAC"}
